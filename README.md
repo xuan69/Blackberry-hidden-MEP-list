@@ -4,8 +4,8 @@ DO NOT USE THIS LIST FOR OTHER MODELS!
 
 Please use the following MEP IDs for the models mentioned above as you will not be able to find it on the device. Choose the MEP ID for the carrier that your phone is CURRENLTY LOCKED TO.
 
-3 Hutchison (UK): MEP-24124-001
-A1 (All Countries): MEP-07484-007
+- 3 Hutchison (UK): MEP-24124-001
+- A1 (All Countries): MEP-07484-007
 AT&T (USA): MEP-04598-005
 B-Mobile (All Caribbean Islands): MEP-10129-006
 Bell (Canada): MEP-30218-002
